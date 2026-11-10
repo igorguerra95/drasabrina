@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Sabrina Krambeck | Psicóloga Clínica",
+  "description": "Psicoterapia individual e de casal com acolhimento humanizado, base científica e sigilo ético absoluto. Atendimento online em todo o Brasil e presencial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
